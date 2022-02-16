@@ -1,0 +1,2 @@
+# Technical Analysis with TA-Lib
+The code belongs to the post [Introduction to technical Analysis in Python using TA-Lib](http://blog.adnansiddiqi.me/introduction-to-technical-analysis-in-python-using-ta-lib)
